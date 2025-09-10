@@ -1,0 +1,4 @@
+Praktikum kedua dilakukan dengan mendeteksi warna secara real time yang mana fokus deteksi hanya pada titik pusat gambar/kamera
+Setelah warna terdeteksi akan muncul label teks yang memberikan penjelasan dari warna tersebut, selain itu juga akan menampilkan keakurasian deteksi warna yang dinyatakan dalam persen
+Pada praktikum kedua ini program codingan ditambahkan datasheet yang digunakan sebagai referensi warna, dan pada program ini juga menggunakan algoritma machine learning yaitu KNN (K-Nearest Neighbors) yang digunakan untuk mendeteksi berbagai jenis warna 
+Dengan menambahkan datasheet maka warna yang dideteksi lebih bervariasi tidak hanya warna dasar seperti merah, kuning, hijau dan biru
